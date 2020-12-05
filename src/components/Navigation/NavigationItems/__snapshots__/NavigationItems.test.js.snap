@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Navigation Items /> renders correctly enzyme 1`] = `
+<ul
+  className="NavigationItems"
+>
+  <navigationItem
+    exact={true}
+    link="/"
+  >
+    Burger Builder
+  </navigationItem>
+  <navigationItem
+    link="/auth"
+  >
+    Authenticate
+  </navigationItem>
+</ul>
+`;
